@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
