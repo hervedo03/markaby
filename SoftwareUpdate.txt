@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
